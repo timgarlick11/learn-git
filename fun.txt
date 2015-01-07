@@ -1,1 +1,3 @@
 “Hello world!”
+“Hello Earth!”
+“Hello Tim!”
